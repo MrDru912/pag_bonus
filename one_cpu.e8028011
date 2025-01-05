@@ -1,0 +1,12 @@
+Loading openmpi/4.1.3-intel-2021.6.0-yk4yu4u
+  Loading requirement: libiconv/1.16-gcc-10.2.1-jbvbjyi
+    python/3.9.12-gcc-10.2.1-rg2lpmk xz/5.2.5-gcc-10.2.1-fteagxc
+    zlib/1.2.12-gcc-10.2.1-7qmmk4c libxml2/2.9.13-gcc-10.2.1-42uofzw
+    cuda/11.6.2-gcc-10.2.1-nwpmxyy libpciaccess/0.16-gcc-10.2.1-f4q3srx
+    ncurses/6.2-gcc-10.2.1-h3werp5 hwloc/2.7.1-gcc-10.2.1-a7ilbqq
+    libevent/2.1.12-gcc-10.2.1-dqblgi5 numactl/2.0.14-gcc-10.2.1-gasmwpx
+    opa-psm2/11.2.206-gcc-10.2.1-q4gu6pl openjdk/11.0.14.1_1-gcc-10.2.1-2ll77ke
+    pmix/4.1.2-gcc-10.2.1-enmnubp psm/2017-04-28-gcc-10.2.1-hrczaup
+    libnl/3.3.0-gcc-10.2.1-oa4lipo rdma-core/39.1-gcc-10.2.1-jamlwco
+    gdrcopy/2.3-gcc-10.2.1-7evvrzi ucx/1.12.1-gcc-10.2.1-ixjicks
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory

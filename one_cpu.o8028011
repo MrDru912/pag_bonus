@@ -1,0 +1,63 @@
+-- The C compiler identification is GNU 9.2.0
+-- The CXX compiler identification is GNU 9.2.0
+-- Check for working C compiler: /cvmfs/software.metacentrum.cz/spack1/software/gcc/linux-debian9-x86_64/9.2.0-gcc-f34dsf/bin/gcc
+-- Check for working C compiler: /cvmfs/software.metacentrum.cz/spack1/software/gcc/linux-debian9-x86_64/9.2.0-gcc-f34dsf/bin/gcc - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /cvmfs/software.metacentrum.cz/spack1/software/gcc/linux-debian9-x86_64/9.2.0-gcc-f34dsf/bin/g++
+-- Check for working CXX compiler: /cvmfs/software.metacentrum.cz/spack1/software/gcc/linux-debian9-x86_64/9.2.0-gcc-f34dsf/bin/g++ - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OpenMP_C: -fopenmp (found version "4.5") 
+-- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+-- Found OpenMP: TRUE (found version "4.5")  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /scratch.ssd/meta_mamaev_a/job_8028011.pbs-m1.metacentrum.cz/build
+Scanning dependencies of target Storage
+[ 25%] Building CXX object CMakeFiles/Storage.dir/src/Storage.cpp.o
+[ 50%] Linking CXX executable Storage
+[ 50%] Built target Storage
+Scanning dependencies of target InstanceGenerator
+[ 75%] Building CXX object CMakeFiles/InstanceGenerator.dir/src/InstanceGenerator.cpp.o
+[100%] Linking CXX executable InstanceGenerator
+[100%] Built target InstanceGenerator
+Running instance instance_1.bin with 1 threads
+0 ms
+treeCost: 35; Time: 0 ms
+Running instance instance_10.bin with 1 threads
+56985 ms
+treeCost: 10947; Time: 2823 ms
+Running instance instance_2.bin with 1 threads
+2 ms
+treeCost: 333; Time: 0 ms
+Running instance instance_3.bin with 1 threads
+59 ms
+treeCost: 1721; Time: 0 ms
+Running instance instance_4.bin with 1 threads
+5 ms
+treeCost: 223; Time: 0 ms
+Running instance instance_5.bin with 1 threads
+241 ms
+treeCost: 2791; Time: 0 ms
+Running instance instance_6.bin with 1 threads
+17144 ms
+treeCost: 26244; Time: 0 ms
+Running instance instance_7.bin with 1 threads
+589 ms
+treeCost: 1666; Time: 25 ms
+Running instance instance_8.bin with 1 threads
+24587 ms
+treeCost: 26376; Time: 26 ms
+
+**********************************************************************************************************
+
+The SCRATCHes have been SUCCESSFULLY cleaned...
+
+**********************************************************************************************************
+
+The SCRATCHes have been SUCCESSFULLY cleaned...
